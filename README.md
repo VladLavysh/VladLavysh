@@ -12,7 +12,8 @@ I'm a passionate full-stack developer with expertise in JavaScript. I love build
 
 ## 🌱 What I'm Currently Learning
 
-I'm always eager to learn and grow. Currently, I'm diving deeper into GraphQL and exploring serverless architectures.
+I have a favorite quote: 'Advance a little each day.'
+I'm always eager to learn and grow. Currently, I'm diving deeper into web development to close some gaps and learn new technologies such as Angular, Python with Django, and supporting tools.
 
 ## 🔭 Personal Projects
 
