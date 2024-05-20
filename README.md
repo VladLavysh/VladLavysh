@@ -17,7 +17,7 @@ I'm always eager to learn and grow. Currently, I'm diving deeper into web develo
 
 ## 🔭 Personal Projects
 
-You can check out my latest projects on my profile page.
+You can check out my latest projects below.
 
 ## 📫 Let's Connect
 
