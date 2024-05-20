@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hi there! 👋 I'm Vlad
 
-<!--
-**VladLavysh/VladLavysh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate full-stack developer with expertise in JavaScript. I love building web applications and exploring new technologies.
 
-Here are some ideas to get you started:
+## 🚀 Technologies I Work With
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Frontend:** Vue.js, React
+- **Backend:** Node.js, Express
+- **Mobile:** Ionic, Capacitor
+- **Database:** SQL, MongoDB, Firebase
+- **Other Tools:** Git, Postman, AWS, Docker, VS Code
+
+## 🌱 What I'm Currently Learning
+
+I'm always eager to learn and grow. Currently, I'm diving deeper into GraphQL and exploring serverless architectures.
+
+## 🔭 Personal Projects
+
+You can check out my latest projects on my profile page.
+
+## 📫 Let's Connect
+
+Feel free to reach out! You can find me on LinkedIn - https://www.linkedin.com/in/vlad-lavysh/
+
+Happy coding! 🎉
