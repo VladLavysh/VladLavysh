@@ -21,6 +21,6 @@ You can check out my latest projects on my profile page.
 
 ## 📫 Let's Connect
 
-Feel free to reach out! You can find me on LinkedIn - https://www.linkedin.com/in/vlad-lavysh/
+Feel free to reach out! You can find me on LinkedIn - https://www.linkedin.com/in/vlad-lavysh
 
 Happy coding! 🎉
