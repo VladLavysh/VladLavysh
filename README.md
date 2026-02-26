@@ -1,26 +1,68 @@
-# Hi there! 👋 I'm Vlad
+# Vlad Lavysh  
+**Full-Stack JavaScript Engineer**
 
-I'm a passionate full-stack developer with expertise in JavaScript. I love building web applications and exploring new technologies.
+Full-stack engineer specializing in designing and building scalable, production-ready web systems.  
+Strong focus on backend architecture, API design, data modeling, and performance optimization.  
 
-## 🚀 Technologies I Work With
+I approach development from a systems perspective — prioritizing reliability, maintainability, and long-term scalability over short-term solutions.
 
-- **Frontend:** Vue.js, React
-- **Backend:** Node.js, Express.js, Nest.js
-- **Mobile:** React Native, Ionic, Capacitor
-- **Database:** MongoDB, Postgresql
-- **Other Tools:** Git, Postman, AWS, Docker, VS Code
+---
 
-## 🌱 What I'm Currently Learning
+## Core Stack
 
-I have a favorite quote: 'Advance a little each day.'
-I'm always eager to learn and grow. Currently, I'm diving deeper into web development to close some gaps and learn new technologies and supporting tools.
+### Backend
+- **NestJS**
+- **Node.js**
+- REST API design
+- Authentication & authorization
+- Background jobs & async processing
+- Caching strategies (Redis)
+- Rate limiting & resilience patterns
 
-## 🔭 Personal Projects
+### Frontend
+- **Vue.js**
+- **Nuxt**
+- SSR & hybrid rendering strategies
+- Performance optimization (lazy loading, code splitting)
+- State management architecture
+- API integration patterns
+- Frontend error handling & resilience
+- SEO-aware application structure
 
-You can check out my latest projects below.
+### Database
+- **PostgreSQL**
+- Query optimization
+- Index strategy
+- Transaction design
+- Data modeling for scalability
 
-## 📫 Let's Connect
+---
 
-Feel free to reach out! You can find me on LinkedIn - https://www.linkedin.com/in/vlad-lavysh
+## Architecture & Engineering Focus
 
-Happy coding! 🎉
+- Designing modular, maintainable backend architectures  
+- Building idempotent and fault-tolerant systems  
+- Understanding event loop, concurrency, and I/O behavior  
+- Latency-aware system design (thinking in percentiles, not averages)  
+- Performance bottleneck detection before production  
+- Clean code and long-term maintainability  
+- Containerized environments (Docker-based workflows)
+
+---
+
+## Additional Experience
+
+- Express.js  
+- MongoDB  
+- React  
+- React Native  
+- AWS  
+- CI/CD pipelines  
+- Infrastructure setup for production environments  
+
+---
+
+## Contact
+
+LinkedIn:  
+https://www.linkedin.com/in/vlad-lavysh
