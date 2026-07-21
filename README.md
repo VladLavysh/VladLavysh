@@ -1,68 +1,48 @@
-# Vlad Lavysh  
-**Full-Stack JavaScript Engineer**
+# Vlad Lavysh
 
-Full-stack engineer specializing in designing and building scalable, production-ready web systems.  
-Strong focus on backend architecture, API design, data modeling, and performance optimization.  
+Software Engineer.
 
-I approach development from a systems perspective — prioritizing reliability, maintainability, and long-term scalability over short-term solutions.
+This is my engineering lab — a place where I experiment, learn, break things, and build them again.
 
----
+You'll find projects ranging from full-stack web applications to embedded systems, electronics, IoT, and whatever else catches my curiosity.
 
-## Core Stack
-
-### Backend
-- **NestJS**
-- **Node.js**
-- REST API design
-- Authentication & authorization
-- Background jobs & async processing
-- Caching strategies (Redis)
-- Rate limiting & resilience patterns
-
-### Frontend
-- **Vue.js**
-- **Nuxt**
-- SSR & hybrid rendering strategies
-- Performance optimization (lazy loading, code splitting)
-- State management architecture
-- API integration patterns
-- Frontend error handling & resilience
-- SEO-aware application structure
-
-### Database
-- **PostgreSQL**
-- Query optimization
-- Index strategy
-- Transaction design
-- Data modeling for scalability
+Currently exploring the intersection of software and hardware.
 
 ---
 
-## Architecture & Engineering Focus
+## Current interests
 
-- Designing modular, maintainable backend architectures  
-- Building idempotent and fault-tolerant systems  
-- Understanding event loop, concurrency, and I/O behavior  
-- Latency-aware system design (thinking in percentiles, not averages)  
-- Performance bottleneck detection before production  
-- Clean code and long-term maintainability  
-- Containerized environments (Docker-based workflows)
-
----
-
-## Additional Experience
-
-- Express.js  
-- MongoDB  
-- React  
-- React Native  
-- AWS  
-- CI/CD pipelines  
-- Infrastructure setup for production environments  
+- Embedded Systems (C++)
+- Electronics
+- IoT
+- Backend Architecture
+- System Design
+- Distributed Systems
+- Physical Computing
 
 ---
 
-## Contact
+## Main technologies
+
+- TypeScript
+- Node.js / NestJS
+- Vue / Nuxt
+- PostgreSQL
+- Docker
+
+---
+
+## Philosophy
+
+I enjoy understanding **how things work**, not just how to use them.
+
+Whether it's a web API, a database query planner, a microcontroller, or an electronic circuit, I like digging below the abstraction layer to understand the underlying system.
+
+This repository reflects that journey.
+
+---
+
+## Connect
 
 LinkedIn:  
-https://www.linkedin.com/in/vlad-lavysh
+**https://www.linkedin.com/in/vlad-lavysh**
