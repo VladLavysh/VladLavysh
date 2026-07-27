@@ -15,7 +15,7 @@ Currently exploring the intersection of software and hardware.
 - Embedded Systems (C++)
 - Electronics
 - IoT
-- Backend Architecture (Node.js, C#)
+- Backend Architecture (Node.js, Go)
 - System Design
 - Distributed Systems
 - Physical Computing
